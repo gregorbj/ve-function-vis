@@ -1,2 +1,2 @@
 # ve-function-vis
-Files for creating graph visualization of VisionEval framework functions and their calling relationships
+This repository contains files which read VisionEval framework function documentation files and from the documentation creates javascript files which are used to display the functions and their calling relationships in a graph visualization. The index.html file reads in the javascript files and uses the  library to create the graph visualization. The index.html file also includes some explanatory text. You can click on a function and move its location in the display to make it easier to see the functions it calls. You can view an example using the following url: https://gregorbj.github.io/ve-function-vis/
